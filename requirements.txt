@@ -19,7 +19,6 @@ certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
 click==8.1.6
-codeinterpreterapi==0.0.11
 comm==0.1.4
 contourpy==1.1.0
 cycler==0.11.0
