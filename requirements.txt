@@ -61,7 +61,7 @@ jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 kiwisolver==1.4.4
 langchain
-langsmith==0.0.20
+langsmith
 llama-index==0.8.0
 lxml==4.9.3
 markdown-it-py==3.0.0
